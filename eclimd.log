@@ -259,3 +259,19 @@ Caused by: java.lang.IllegalArgumentException: PluginResources not found for plu
 	at java.security.AccessController.doPrivileged(Native Method)
 	at org.eclipse.osgi.framework.internal.core.BundleContextImpl.stop(BundleContextImpl.java:764)
 	... 89 more
+2014-03-11 16:14:41,781 INFO  [org.eclim.eclipse.EclimDaemon] Workspace: E:/Java0833
+2014-03-11 16:14:41,831 INFO  [org.eclim.eclipse.EclimDaemon] Home: D:\SOFTWARE\Develop\eclipse\plugins\org.eclim_2.3.2\
+2014-03-11 16:14:41,831 INFO  [org.eclim.eclipse.EclimDaemon] Starting eclim...
+2014-03-11 16:14:41,967 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim
+2014-03-11 16:14:41,970 INFO  [org.eclim.eclipse.EclimDaemon] Loading plugin org.eclim.core
+2014-03-11 16:14:42,452 INFO  [org.eclim.plugin.core.CorePlugin] Loading eclim plugins...
+2014-03-11 16:14:42,456 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.cdt
+2014-03-11 16:14:42,489 INFO  [org.eclim.plugin.core.CorePlugin] Loading plugin org.eclim.jdt
+2014-03-11 16:14:42,531 INFO  [org.eclim.plugin.core.CorePlugin] Plugins loaded.
+2014-03-11 16:14:42,532 INFO  [org.eclim.eclipse.EclimDaemon] Loaded plugin org.eclim.core
+2014-03-11 16:14:42,532 INFO  [org.eclim.eclipse.EclimDaemon] Eclim Server Started on: 127.0.0.1:9091
+2014-03-11 16:18:36,463 INFO  [org.eclim.eclipse.EclimDaemon] Shutting down eclim...
+2014-03-11 16:18:36,477 INFO  [org.eclim.eclipse.EclimDaemon] Stopping plugin org.eclim.core
+2014-03-11 16:18:36,479 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.cdt
+2014-03-11 16:18:36,479 INFO  [org.eclim.plugin.core.CorePlugin] Stopping plugin org.eclim.jdt
+2014-03-11 16:18:36,480 INFO  [org.eclim.eclipse.EclimDaemon] Eclim stopped.
