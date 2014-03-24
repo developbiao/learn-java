@@ -1,1 +1,0 @@
-Hello fileWriter !Myname is GongBiaoWriter is ok!
